@@ -2,7 +2,7 @@ hola a todos
 - 👋 soy @daniel5390
 - 👀 I’m interested in ... programacion
 - 🌱 I’m currently learning.... html,css y javascrip
-- 
+- 👍 I like .... escuchar musica
 
 <!---
 danie5390/danie5390 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
